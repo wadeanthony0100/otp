@@ -18,7 +18,7 @@ Required Utilities
 
 These are the tools you need in order to unpack and build Erlang/OTP.
 
-> *WARNING*: Please have a look at the [Known platform issues][] chapter
+> *WARNING*: Please have a look at the [Known platform issues][Known platform issues] chapter
 > before you start.
 
 ### Unpacking ###
